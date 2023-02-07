@@ -1,0 +1,2 @@
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section7/Vectors/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section7/Arrays/main.cpp

@@ -1,0 +1,3 @@
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section6/CarpetCleaning/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section6/SizeofOperator/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section6/CalculateArea/main.cpp

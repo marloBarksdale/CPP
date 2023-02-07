@@ -1,0 +1,4 @@
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section12Pointers/SectionChallenge/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section12Pointers/MergeSort/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section12Pointers/DynamicMemory/main.cpp
+/home/marlobarksdale/Dropbox/CPP-01.24.23/Section12Pointers/Pointers/main.cpp
