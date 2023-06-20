@@ -10,13 +10,11 @@ int main()
     int array[]{ 9, 8, 7, 6, 5, 4, 3, 4, 5, 6, 7, 8, 9, 6, 54, 32, 34, 5, 6 };
 
     mergeSort(array, 0, (sizeof(array) / sizeof(array[0]) - 1));
-    
-    
-    
-    for(auto i :array){
-        cout<<i<<" ";
+
+    for(auto i : array) {
+        cout << i << " ";
     }
-    cout<<endl;
+    cout << endl;
 }
 
 void mergeSort(int arr[], int l, int r)
@@ -36,7 +34,7 @@ void mergeSort(int arr[], int l, int r)
 void merge(int arr[], int l, int m, int r)
 {
 
-    int Lsize = m - l+1;
+    int Lsize = m - l + 1;
     int Rsize = (r - m);
 
     int L[Lsize]{};
@@ -50,8 +48,6 @@ void merge(int arr[], int l, int m, int r)
 
         R[j] = arr[m + 1 + j];
     }
-
-   
 
     int i = 0;
     int j = 0;
@@ -74,10 +70,8 @@ void merge(int arr[], int l, int m, int r)
 
         arr[l++] = R[j++];
     }
-    
-    
-    
-     for(int p : L) {
+
+    for(int p : L) {
         cout << p << " ";
     }
 

@@ -2,8 +2,8 @@
 <CodeLite_Workspace Name="Section12Pointers" Database="" Version="10000">
   <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
   <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
-  <Project Name="MergeSort" Path="MergeSort/MergeSort.project" Active="No"/>
-  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <Project Name="MergeSort" Path="MergeSort/MergeSort.project" Active="Yes"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

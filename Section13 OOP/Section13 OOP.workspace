@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13 OOP" Database="" Version="10000">
+  <Project Name="FirstClass" Path="FirstClass/FirstClass.project" Active="No"/>
+  <Project Name="ImplementingMetods" Path="ImplementingMetods/ImplementingMetods.project" Active="No"/>
+  <Project Name="ImplementingMethods2" Path="ImplementingMethods2/ImplementingMethods2.project" Active="No"/>
+  <Project Name="Movies" Path="Movies/Movies.project" Active="No"/>
+  <Project Name="CProject" Path="CProject/CProject.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="FirstClass" ConfigName="Debug"/>
+      <Project Name="ImplementingMetods" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods2" ConfigName="Debug"/>
+      <Project Name="Movies" ConfigName="Debug"/>
+      <Project Name="CProject" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="FirstClass" ConfigName="Release"/>
+      <Project Name="ImplementingMetods" ConfigName="Release"/>
+      <Project Name="ImplementingMethods2" ConfigName="Release"/>
+      <Project Name="Movies" ConfigName="Release"/>
+      <Project Name="CProject" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

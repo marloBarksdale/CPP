@@ -1,0 +1,45 @@
+[{
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/CProject/main.c",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/CProject",
+  "command": "/usr/bin/gcc -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/CProject/main.c\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/CProject/main.c\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/main.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.hpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.hpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.hpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movie.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.hpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.hpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.hpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/Movies/Movies.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/main.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.h",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.h\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.h\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMethods2/Account.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMetods/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMetods",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMetods/main.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/ImplementingMetods/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/FirstClass/main.cpp",
+  "directory": "/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/FirstClass",
+  "command": "/usr/bin/g++ -c \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/FirstClass/main.cpp\" -o \"/home/marlobarksdale/Dropbox/CPP-01.24.23/Section13 OOP/FirstClass/main.cpp\".o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
